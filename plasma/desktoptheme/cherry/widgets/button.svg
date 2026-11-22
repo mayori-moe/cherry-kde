@@ -135,7 +135,7 @@
   <path id="path2800-1-0" transform="translate(81.14 758.86)" d="m109 65c-3.324 0-6 2.676-6 6h2c0-2.216 1.784-4 4-4z" color="#3daee6" fill="none" stroke-width="1.5"/>
   <path id="path2802-8-6" d="m190.14 824.86c-2.77 0-5 2.23-5 5.0001h5z" color="#3daee6" fill="#FF578B" stroke-width="1.25"/>
  </g>
- <path id="focus-center" class="ColorScheme-Highlight" d="m110 117v24h48v-24z" color="#3daee6" fill="#FF578B" stroke-width=".70711"/>
+ <path id="focus-center" class="ColorScheme-Highlight" d="m110 117v24h48v-24z" color="#3daee6" fill="#FF578B" opacity="0" stroke-width=".70711"/>
  <g id="focus-topleft" transform="translate(-81.14 -713.86)">
   <path id="path5203" d="m190.14 824.86c-2.77 0-5 2.23-5 5h5z" color="#3daee6" fill="#FF578B" stroke-width="1.25"/>
   <path id="path2151-0" transform="translate(81.14 758.86)" d="m109 65c-3.324 0-6 2.676-6 6h2c0-2.216 1.784-4 4-4z" color="#3daee6" fill="none" stroke-width="1.5"/>
