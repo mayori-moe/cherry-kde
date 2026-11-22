@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "enuma.alrizky@gmail.com",
+                "Name": "nullxception"
+            }
+        ],
+        "Category": "",
+        "EnabledByDefault": true,
+        "Id": "cherry-midnight-plasma",
+        "License": "GPL 3.0",
+        "Name": "cherry-midnight",
+        "Version": "2.2",
+        "Website": "https://github.com/nullxception/cherry-kde"
+    },
+    "X-Plasma-API": "5.0"
+}

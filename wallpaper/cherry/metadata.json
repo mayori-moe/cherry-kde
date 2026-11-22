@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "enuma.alrizky@gmail.com",
+                "Name": "Nauval Rizky"
+            }
+        ],
+        "Id": "cherry-wallpaper",
+        "License": "CC BY-NC-SA 3.0",
+        "Name": "Cherry Plasma Wallpaper",
+        "Version": "2.2"
+    }
+}

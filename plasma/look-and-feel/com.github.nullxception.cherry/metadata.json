@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "enuma.alrizky@gmail.com",
+                "Name": "Nauval Rizky"
+            }
+        ],
+        "Category": "",
+        "Description": "Cherry Theme for kde plasma",
+        "Id": "com.github.nullxception.cherry",
+        "License": "GPL3.0",
+        "Name": "Cherry",
+        "Version": "2.2",
+        "Website": "https://github.com/nullxception/cherry-kde"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+    "X-KPackage-Dependencies": "kns://aurorae.knsrc/api.kde-look.org/1450863,kns://colorschemes.knsrc/api.kde-look.org/1450863,kns://icons.knsrc/api.kde-look.org/1359276,kns://konsole.knsrc/api.kde-look.org/1450886,kns://plasma-themes.knsrc/api.kde-look.org/1450878,kns://wallpaper.knsrc/api.kde-look.org/1450892",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "defaults"
+}

@@ -18,8 +18,8 @@
  *   51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  */
 
-import QtQuick 2.5
-import QtQuick.Window 2.2
+import QtQuick
+import org.kde.kirigami as Kirigami
 
 Rectangle {
     id: root
@@ -35,18 +35,11 @@ Rectangle {
         id: content
         anchors.fill: parent
         opacity: 0
-        TextMetrics {
-            id: units
-            text: "M"
-            property int gridUnit: boundingRect.height
-            property int largeSpacing: units.gridUnit
-            property int smallSpacing: Math.max(2, gridUnit/4)
-        }
 
         Image {
             id: logo
             //match SDDM/lockscreen avatar positioning
-            property real size: units.gridUnit * 8
+            property real size: Kirigami.Units.gridUnit * 8
             anchors.centerIn: parent
             source: "images/start.svg"
             sourceSize.width: size
