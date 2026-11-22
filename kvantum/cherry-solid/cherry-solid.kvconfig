@@ -72,6 +72,8 @@ saturation=1.00
 click_behavior=0
 shadowless_popup=false
 drag_from_buttons=false
+menu_blur_radius=0
+tooltip_blur_radius=0
 
 [GeneralColors]
 window.color=#1f1f2a
@@ -155,7 +157,7 @@ text.toggle.color=white
 text.bold=false
 indicator.element=arrow
 indicator.size=0
-frame.expansion=34
+frame.expansion=0
 
 [ToolbarButton]
 frame.element=tbutton
@@ -166,7 +168,7 @@ text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 text.bold=false
-frame.expansion=34
+frame.expansion=0
 
 [Dock]
 inherits=PanelButtonCommand
@@ -246,12 +248,12 @@ inherits=PanelButtonCommand
 frame.element=lineedit
 interior.element=lineedit
 interior=false
-frame.top=2
-frame.bottom=2
+frame.top=3
+frame.bottom=3
 frame.left=2
 frame.right=2
-text.margin.top=2
-text.margin.bottom=2
+text.margin.top=3
+text.margin.bottom=3
 text.margin.left=2
 text.margin.right=2
 frame.expansion=0
